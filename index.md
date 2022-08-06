@@ -1,6 +1,4 @@
 ## Welcome to ReportR Support
-
-
 <h2>Get in Touch</h2>
 <div id="contact-form">
         <form
