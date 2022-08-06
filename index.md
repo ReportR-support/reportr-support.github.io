@@ -1,5 +1,5 @@
 ## Welcome to ReportR Support
-<h2>Get in Touch</h2>
+Get in Touch
 <div id="contact-form">
         <form
           action="https://formspree.io/f/xrgdzjqp"
