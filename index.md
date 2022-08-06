@@ -16,13 +16,11 @@
 </div>
 
 
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
+    <div>
       <title>Privacy Policy</title>
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
+    </div>
+    <div>
     <strong>Privacy Policy</strong> <p>
                   Nadav Chelouche built the ReportR app as
                   a Free app. This SERVICE is provided by
@@ -117,5 +115,5 @@
                 </p> <p>This policy is effective as of 2022-08-06</p> <p><strong>Contact Us</strong></p> <p>
                   If you have any questions or suggestions about my
                   Privacy Policy, do not hesitate to contact me at ndvclc@gmail.com.
-    </body>
+    </div>
       
